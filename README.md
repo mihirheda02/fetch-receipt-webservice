@@ -1,4 +1,4 @@
-# setup for project
+# Setup for project
 Setup Docker
 Setup Go
 Run `docker-compose up`
